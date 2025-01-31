@@ -68,6 +68,7 @@ This interactive Power BI dashboard provides a comprehensive overview of Tailwin
 
 📌 **[View Full Dashboard (Power BI)](https://app.powerbi.com/links/azqHSlqm3y?ctid=950737a4-2947-46ce-9c53-4728f01fd598&pbi_source=linkShare)** 
 
-![Tailwind Traders Dashboard Screenshot](screenshots/tailwind_traders_dashboard.png)  *(Screenshot of the landing page or a representative page)*
+![Tailwind Traders Dashboard Screenshot_Sales](screenshots/tailwind_traders_dashboard_sales.png) 
+![Tailwind Traders Dashboard Screenshot_Profit](screenshots/tailwind_traders_dashboard_profit.png)
 
 ---

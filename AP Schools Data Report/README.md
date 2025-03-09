@@ -23,4 +23,4 @@ This report provides an in-depth analysis of **Andhra Pradesh (AP) schools' data
 
 📌 **[View Full Report](https://app.powerbi.com/links/IRXHsvgegi?ctid=950737a4-2947-46ce-9c53-4728f01fd598&pbi_source=linkShare)**  
 
-![AP Schools Report Screenshot](screenshots/ap_schools_report.png)  
+![AP Schools Report Screenshot](../screenshots/ap_schools_report.png)  
